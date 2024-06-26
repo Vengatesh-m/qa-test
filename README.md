@@ -17,3 +17,7 @@ Deploy the services to a local Kubernetes cluster (e.g., Minikube or Kind).
 **Documentation:**
 
 - Provide a README file with instructions on how to set up and run the automated tests script.
+
+**Deliverables:**
+- Test script for automated testing.
+- README file with setup and execution instructions.
