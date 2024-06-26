@@ -21,3 +21,5 @@ Deploy the services to a local Kubernetes cluster (e.g., Minikube or Kind).
 **Deliverables:**
 - Test script for automated testing.
 - README file with setup and execution instructions.
+
+**Github repo should be Public**
